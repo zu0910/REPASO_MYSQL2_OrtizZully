@@ -1,4 +1,4 @@
-USE RepasoMysql2;
+USE universidad_t2;
 
 /* Departamento */
 INSERT INTO departamento VALUES (1, 'Informática');
